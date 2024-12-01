@@ -19,7 +19,7 @@ ________________________________________
 Installation
 1. Clonez le dépôt GitHub :
 
-git clone https://github.com/kilanions16/LibraryManagementSystem.git    
+git clone https://github.com/kilanions16/MovieManagementSystem.git    
 
 
 3. Compilez le projet avec Maven :
