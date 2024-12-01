@@ -18,29 +18,26 @@ Prérequis
 ________________________________________
 Installation
 1. Clonez le dépôt GitHub :
-bash
-Copier le code
+
 git clone https://github.com/kilanions16/LibraryManagementSystem.git    
-cd MovieManagementSystem
+
 
 3. Compilez le projet avec Maven :
-bash
-Copier le code
+
 mvn compile
-4.	Lancez les tests pour vérifier que tout fonctionne :
-bash
-Copier le code
+
+4. Lancez les tests pour vérifier que tout fonctionne :
+
 mvn test
 
 ________________________________________
 Exécution
 1. Générez le fichier JAR :
-bash
-Copier le code
+
 mvn package
+
 2.	Exécutez le fichier généré :
-bash
-Copier le code
+
 java -cp target/MovieManagementSystem-1.0-SNAPSHOT.jar main.App
 	
 ________________________________________
@@ -56,13 +53,11 @@ Contribuer
 Les contributions sont les bienvenues ! Suivez ces étapes :
 1.	Forkez le projet.
 2.	Créez une branche pour votre fonctionnalité :
-bash
-Copier le code
+
 git checkout -b feature/ma-nouvelle-fonctionnalite
 
 3. Faites vos modifications et poussez-les :
-bash
-Copier le code
+
 git push origin feature/ma-nouvelle-fonctionnalite
 4.	Ouvrez une Pull Request.
 ________________________________________
