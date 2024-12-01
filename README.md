@@ -22,11 +22,12 @@ bash
 Copier le code
 git clone https://github.com/kilanions16/LibraryManagementSystem.git    
 cd MovieManagementSystem
-2. Compilez le projet avec Maven :
+
+3. Compilez le projet avec Maven :
 bash
 Copier le code
 mvn compile
-3.	Lancez les tests pour vérifier que tout fonctionne :
+4.	Lancez les tests pour vérifier que tout fonctionne :
 bash
 Copier le code
 mvn test
@@ -71,4 +72,6 @@ Auteur:
 ________________________________________
 Licence
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.
- Hébergement sur GitHub
+ 
+
+
