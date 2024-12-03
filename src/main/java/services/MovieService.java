@@ -1,6 +1,7 @@
-package services;
+package src.main.java.services;
 
-import models.Movie;
+import src.main.java.models.Movie;
+
 import java.util.ArrayList;
 import java.util.List;
 

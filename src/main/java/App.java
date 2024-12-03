@@ -1,11 +1,9 @@
-package main;
+package src.main.java;
 
-import models.Movie;
-import models.User;
-import services.MovieService;
-import services.UserService;
-
-import java.util.Scanner;
+import src.main.java.models.Movie;
+import src.main.java.models.User;
+import src.main.java.services.MovieService;
+import src.main.java.services.UserService;
 
 public class App {
     public static void main(String[] args) {

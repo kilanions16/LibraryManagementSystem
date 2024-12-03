@@ -1,4 +1,4 @@
-package models;
+package src.main.java.models;
 
 public class Movie {
     private String title;

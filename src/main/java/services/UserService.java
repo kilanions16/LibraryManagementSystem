@@ -1,6 +1,6 @@
-package services;
+package src.main.java.services;
 
-import models.User;
+import src.main.java.models.User;
 
 public class UserService {
     public boolean isAdmin(User user) {
